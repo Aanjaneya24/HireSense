@@ -63,8 +63,8 @@ Before running this project, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hiresense.git
-cd hiresense
+git clone https://github.com/Aanjaneya24/HireSense.git
+cd HireSense
 ```
 
 ### 2. Backend Setup

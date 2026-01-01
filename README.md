@@ -2,6 +2,13 @@
 
 A modern, AI-powered job portal connecting talented professionals with innovative companies.
 
+## 🚀 Live Demo
+
+**Frontend:** [https://hire-sense-zeta.vercel.app](https://hire-sense-zeta.vercel.app)  
+**Backend API:** [https://hiresense-backend-xuwm.onrender.com](https://hiresense-backend-xuwm.onrender.com)
+
+> **Note:** The backend is hosted on Render's free tier, which may take 30-50 seconds to wake up on the first request after inactivity.
+
 ## Overview
 
 HireSense is a full-stack MERN application that streamlines the recruitment process through intelligent automation and user-centric design. The platform leverages AI technology to generate professional job descriptions and provides comprehensive tools for both job seekers and employers.
@@ -245,6 +252,20 @@ hiresense/
 ## Contributing
 
 This is a personal project. For suggestions or feedback, please open an issue.
+
+## Deployment
+
+### Live Application
+- **Frontend**: Deployed on [Vercel](https://vercel.com)
+- **Backend**: Deployed on [Render](https://render.com)
+- **Database**: MongoDB Atlas
+
+### Technologies Used in Production
+- **Frontend Hosting**: Vercel (Automatic deployments from main branch)
+- **Backend Hosting**: Render (Free tier with auto-deploy)
+- **Database**: MongoDB Atlas (Free M0 Cluster)
+- **File Storage**: Cloudinary
+- **AI Service**: Groq API (Llama 3.3 70B)
 
 ## License
 
